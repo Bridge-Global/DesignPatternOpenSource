@@ -8,17 +8,23 @@ Session Includes the following Design patterns
 creational Patterns
 -------------------
 Singleton
-factory method 
+
+Factory method 
+
 Abstract factory 
 
 Structural Patterns
 -------------------
 Adapter
+
 Facade
+
 Proxy
 
 Behavioral Patterns
 -------------------
 Observer
+
 Chain of Responsibility
+
 Strategy 
