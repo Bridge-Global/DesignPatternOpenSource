@@ -5,7 +5,7 @@ In software engineering, a design pattern is a general repeatable solution to a 
 
 Session Includes the following Design patterns
 
-creational Patterns
+Creational Patterns
 -------------------
 Singleton
 
